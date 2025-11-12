@@ -1,0 +1,6 @@
+name = input('Input name: ')
+age = int(input('Input age: '))
+height = float(input('Input height: '))
+print(f'Name: {name}')
+print(f'Age: {age}')
+print(f'Height = {height}' + 'm')

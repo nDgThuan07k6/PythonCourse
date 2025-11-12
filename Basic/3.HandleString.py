@@ -1,0 +1,5 @@
+string = input('Enter a string: ')
+print('String len:', len(string))
+print('String upper:', str.upper(string))
+print('String lower:', str.lower(string))
+print('Reverse string:', string[::-1])
